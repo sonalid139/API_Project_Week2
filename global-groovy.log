@@ -1,0 +1,11 @@
+2019-12-18 18:17:37,051 INFO  [log] Access Token generated: e52e62aa95ea67990f196964fe48dc434cdb36e0
+2019-12-18 18:17:40,800 INFO  [log] Customer created: 200
+2019-12-18 18:17:42,591 INFO  [log] Customer Name: fname680.3 lname213.6 and Customer Group Id is: 1 Emailfname266.2@gmail.com
+2019-12-18 18:17:42,951 INFO  [log] Product created: 121
+2019-12-18 18:17:44,632 INFO  [log] Size parameters to create Order: 290 80
+2019-12-18 18:17:47,407 INFO  [log] Order created: 16
+2019-12-18 18:17:52,920 INFO  [log] Updated status: Pending
+2019-12-18 18:17:52,922 INFO  [log] Requested status: Pending
+2019-12-18 18:17:52,926 INFO  [log] Status is Successfully updated to Pending
+2019-12-18 18:17:54,953 INFO  [log] 
+2019-12-18 18:17:54,953 INFO  [log] Order is deleted successfully.........
